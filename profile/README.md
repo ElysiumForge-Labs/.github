@@ -65,8 +65,14 @@ Testnet → mainnet. Clear interfaces. Production-minded delivery.
 
 ---
 
-## Let’s build on Elysium
+## Contact
 
-Open an issue on a relevant repository, or reach out through the org if you need support, a custom build, or help evaluating opportunity on Elysium.
+Need help, technical support, or a custom build on Elysium? Reach out on Telegram: **[@teraus111](https://t.me/teraus111)**.
+
+You can also open an issue on a relevant repository.
+
+---
+
+## Let’s build on Elysium
 
 **ElysiumForge Labs** — tooling and partnership to make Elysium more capable and useful for builders, clients, and investors.
